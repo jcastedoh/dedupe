@@ -1,0 +1,4 @@
+name = DeDupe Content Checker
+description = Compare and Remove Duplicate Content
+core = 7.x
+package = Other
